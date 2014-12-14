@@ -52,7 +52,7 @@ module.exports = function (grunt) {
         src: [
           'js/modals.js',
           'js/popovers.js',
-          'js/push.js',
+          //'js/push.js',
           'js/segmented-controllers.js',
           'js/sliders.js',
           'js/toggles.js'
